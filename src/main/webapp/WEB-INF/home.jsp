@@ -23,7 +23,7 @@
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
 		SGR Dental college Road,
-		Martha Halli,Opp To Madhurai Iddly House
+		MarthaHalli,Opp To Madhurai Iddly House
 		Bangalore.
 		+91-9980923226
 	</span>
